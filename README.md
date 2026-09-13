@@ -3,6 +3,8 @@ Analysed a synthetic teen mental health dataset (1,200 students) using Google Sh
 
 **Tools:** Google Sheets (Pivot Tables, Charts)
 **Dataset:** [Kaggle Teen Mental Health Dataset](https://www.kaggle.com/datasets/argonnxx/teen-mental-health)
+**Live spreadsheet:** [View on Google Sheets](https://docs.google.com/spreadsheets/d/1MQjZCKBhWrs8Q-vcHcOAfEB2aJMkziFzLr7k6yL_l7c/edit?usp=sharing)
+**Full workbook:** [Download the Google Sheets file]()
 
 ## Business problem
 "We've noticed a few students seem to be struggling a lot more than everyone else — way more stressed, more anxious. Can you look into what might be going on with them?"
