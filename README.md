@@ -39,7 +39,7 @@ Built a pivot table comparing students who scored 0 (1,169 participants) vs 1 (3
 
 Finding: Students who scored 1 on the depression scale had higher average anxiety (8.6 vs 5.6), stress (8.4 vs 5.4), and social media hours (6.7 vs 4.5), but notably lower average sleep (4.7 vs 6.5 hours) compared to students who scored 0. Despite the smaller sample size for the depression=1 group, the consistent pattern across four independent metrics suggests a meaningful relationship worth further investigation.
 
-
+![Dashboard Screenshot](Teen_mental_health_analysi.jpg)
 
 Conclusion
 
