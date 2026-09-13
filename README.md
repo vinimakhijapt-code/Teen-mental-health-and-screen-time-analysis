@@ -4,7 +4,8 @@ Analysed a synthetic teen mental health dataset (1,200 students) using Google Sh
 **Tools:** Google Sheets (Pivot Tables, Charts)
 **Dataset:** [Kaggle Teen Mental Health Dataset](https://www.kaggle.com/datasets/argonnxx/teen-mental-health)
 **Live spreadsheet:** [View on Google Sheets](https://docs.google.com/spreadsheets/d/1MQjZCKBhWrs8Q-vcHcOAfEB2aJMkziFzLr7k6yL_l7c/edit?usp=sharing)
-**Full workbook:** [Download the Google Sheets file]()
+**Full workbook:** [Download the Google Sheets file](
+Teen_mental_health_analysis.xlsx)
 
 ## Business problem
 "We've noticed a few students seem to be struggling a lot more than everyone else — way more stressed, more anxious. Can you look into what might be going on with them?"
@@ -41,7 +42,7 @@ Built a pivot table comparing students who scored 0 (1,169 participants) vs 1 (3
 
 Finding: Students who scored 1 on the depression scale had higher average anxiety (8.6 vs 5.6), stress (8.4 vs 5.4), and social media hours (6.7 vs 4.5), but notably lower average sleep (4.7 vs 6.5 hours) compared to students who scored 0. Despite the smaller sample size for the depression=1 group, the consistent pattern across four independent metrics suggests a meaningful relationship worth further investigation.
 
-![Dashboard Screenshot](Teen_mental_health_analysi.jpg)
+![Dashboard Screenshot](Teen_mental_health_analysis.jpg)
 
 Conclusion
 
